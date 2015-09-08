@@ -2,7 +2,7 @@ baseurl: /baltimore
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: baltimore
 github_org: maptime
 maptime:
   chapter: Maptime Baltimore
