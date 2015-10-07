@@ -2,9 +2,9 @@ baseurl: /baltimore
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: Baltimore
 github_org: maptime
 maptime:
   chapter: Maptime Baltimore
-  twitter: ''
+  twitter: MaptimoreBmore
   #disqus: YOUR DISQUS USERNAME
