@@ -34,4 +34,4 @@ OpenStreetMap: https://www.openstreetmap.org
 Baltimore Neighborhood Indicators Alliance: https://www.bniajfi.org
 
 
-![2019-07-08_Part_2_OpenStreetMap]({{site.baseurl}}img\2019-07-08_Part_2_OpenStreetMap.jpg)
+![2019-07-08-Part-2-OpenStreetMap]({{site.baseurl}}\img\2019-07-08-Part-2-OpenStreetMap.jpg)
