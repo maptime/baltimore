@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part 2: OpenStreetMap Hackathon for Baltimore Data Day
+title: Part 2 OpenStreetMap Hackathon for Baltimore Data Day
 author: MaptimeBmore
 ---
 
