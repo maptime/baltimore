@@ -3,7 +3,6 @@ layout: post
 title: Part 2 OpenStreetMap Hackathon for Baltimore Data Day
 author: MaptimeBmore
 ---
-
 **Date**: July 08 2019
 
 **Place**: William H. Thumel Sr. Business Center, 11 W Mt Royal Ave Baltimore MD 21201
