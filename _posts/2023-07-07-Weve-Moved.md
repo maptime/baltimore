@@ -25,3 +25,5 @@ Jonathan, Cheryl, Thayer, Camille
 
 
 ![MaptimeBmore Logo]({{site.baseurl}}\img\maptimebmore-logo.jpg)
+
+This site is maintained here: [https://github.com/maptime/baltimore](https://github.com/maptime/baltimore)

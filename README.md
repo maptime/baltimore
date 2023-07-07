@@ -1,3 +1,13 @@
+# MaptimeBmore! 🦀🗺
+This is the repo for the MaptimeBmore [maptime.io/baltimore](https://maptime.io/baltimore) chapter page.  Push updates to the `gh-pages` branch and they will appear on the chapter site in about 5 minutes.
+
+Follow MaptimeBmore at:
+[EventBrite](https://www.eventbrite.com/o/maptime-bmore-64433266583)
+[Twitter](https://twitter.com/maptimebmore)
+
+
+## Jekyll boilerplate 👇
+
 ## Maptime Starter site
 
 Hosting your own Maptime chapter website? **Starter** is a simple Jekyll theme that's designed to be forked and tweaked to suit your needs. [Jekyll](http://jekyllrb.com/) is a blog-aware, static site generator for personal, project, or organization sites—and it's the software that will generate your Maptime chapter's site.
